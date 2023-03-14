@@ -1,5 +1,5 @@
 ---
-title: "TDP4HE Home Page"
+title: TDP4HE Home Page
 layout: home
 ---
 

@@ -150,6 +150,7 @@ B --> D{fa:fa-database MySQL}
 C --> D
 
 style D fill:#00758f
+style D :#00758f
 
 ```
 
