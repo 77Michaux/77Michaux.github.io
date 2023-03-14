@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  Again Jekyll !
 date:   2023-03-14 12:00:35 +0100
 categories: jekyll update

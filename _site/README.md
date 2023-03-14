@@ -1,11 +1,5 @@
----
-layout: default
-title: CONTENT
-permalink: /content/
----
-
-
 # Heading 1
+## Heading 1.1.
 
 Lorem **ipsum** *dolor* sit amet, ~~consecte~~ tempor incididunt ut labore magna quis nostrud exercitation ullamco laboris consaequat.
 
@@ -27,4 +21,4 @@ def fct(val):
 	return False
 ```
 
-[Small image](https://fr.wikipedia.org/wiki/Paul_Michaux#/media/Fichier:Paul_Michaux.png)
+![Small image](https://fr.wikipedia.org/wiki/Paul_Michaux#/media/Fichier:Paul_Michaux.png)
