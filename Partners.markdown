@@ -146,6 +146,13 @@ And this will produce a flow chart:
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
-B --> D{Rhombus}
+B --> D{fa:fa-database MySQL}
 C --> D
+
+style D fill:#00758f
+
 ```
+
+
+
+<span style="color:blue">some *blue* text</span>

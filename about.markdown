@@ -4,7 +4,9 @@ title: ABOUT US
 permalink: /about/
 ---
 
-Ébauche...
+---
+- Members, contributors, ...
+- HE institutions, organization, research asociation.
 
 You can find the source code at GitHub:
 [Web Site Repos][website_repos] / GitHub [77Michaux](https://github.com/77Michaux)
