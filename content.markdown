@@ -7,7 +7,6 @@ permalink: /content/
 
 # Heading 1
 
-
 Lorem **ipsum** *dolor* sit amet, ~~consecte~~ tempor incididunt ut labore magna quis nostrud exercitation ullamco laboris consaequat.
 
 1. Buy groceries
