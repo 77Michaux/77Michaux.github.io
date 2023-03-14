@@ -6,7 +6,7 @@ permalink: /content/
 
 
 # Heading 1
-## Heading 1.1.
+
 
 Lorem **ipsum** *dolor* sit amet, ~~consecte~~ tempor incididunt ut labore magna quis nostrud exercitation ullamco laboris consaequat.
 
