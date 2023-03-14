@@ -28,4 +28,4 @@ def fct(val):
 	return False
 ```
 
-![Small image](https://fr.wikipedia.org/wiki/Paul_Michaux#/media/Fichier:Paul_Michaux.png)
+[Small image](https://fr.wikipedia.org/wiki/Paul_Michaux#/media/Fichier:Paul_Michaux.png)
