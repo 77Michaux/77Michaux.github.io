@@ -28,8 +28,8 @@ twitter_username: # jekyllrb
 github_username:  77Michaux
 
 # Build settings
-markdown: kramdown
-theme: minima # jekyll-theme-hacker
+# markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
 
